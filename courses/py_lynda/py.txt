@@ -1,0 +1,18 @@
+all methods in python as self as the first argument, this is a reference to the object itself
+
++ Everthing in python is an object variables, functions even code are considered as object
+
++Every object has an ID, Type and Value. ID uniquely identified a particular instance of an object. This ID cannot change for the life of an object. The type identifies the class of an object, and it also cannot change for the life of the object. The value identifies the content of the object, methods or properties that the object may have. Mutable objects can change their value, imutable object cannot.
+
+All variables in python are first calss objects, what that means is what might looks like a simple variable may be something more complex.
+
+Object in python may be Mutable or Immutable
+Mutable objects may change value, immutable objects may not. Some immutable objects may look like they are changing value but they are not actually changing the value.
+
+variables in python are references to objects
+
+Most fundamental types in python are immutable. Numbers, strings, tuples
+
+Mutable objects include, lists, dictionaries, other objects depending upon implementation.
+
+all sequence types in python can be use and iterators
